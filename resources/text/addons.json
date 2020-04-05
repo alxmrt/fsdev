@@ -1,0 +1,17 @@
+{
+  "addons": [
+    {
+      "name": "Seren",
+      "type": "addon",
+      "section": false,
+      "plugin": "plugin.video.seren",
+      "url": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/plugin.video.seren/",
+      "repository": "repository.nixgates",
+      "repositoryxml": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml",
+      "repositoryurl": "https://nixgates.github.io/packages/",
+      "icon": "",
+      "adult": false,
+      "description": "Seren Addon."
+    }
+  ]
+}
