@@ -1,17 +1,16 @@
 {
   "addons": [
+
     {
-      "name": "Spotify w/ Repository",
-      "type": "addon",
-      "section": false,
-      "plugin": "plugin.audio.spotify",
-      "url": "https://kodi-community-addons.github.io/repository.marcelveldt/plugin.audio.spotify/",
-      "repository": "repository.marcelveldt",
-      "repositoryxml": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml",
-      "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
-      "icon": "",
-      "adult": false,
-      "description": "The official Spotify add-on."
+      "name": "Seren Zip",
+      "url": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/plugin.video.seren/plugin.video.seren-1.6.9.zip"
+    },
+    {
+      "name": "Seren w Repo",
+      "url": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/plugin.video.seren/",
+      "repository": "repository.nixgates",
+      "repositoryurl": "https://nixgates.github.io/packages/",
+      "repositoryxml": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml"
     }
   ]
 }
