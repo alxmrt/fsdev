@@ -8,7 +8,7 @@
       "name": "Seren w Repo",
       "url": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/plugin.video.seren/",
       "repository": "repository.nixgates",
-      "repositoryurl": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages",
+      "repositoryurl": "https://nixgates.github.io/packages/",
       "repositoryxml": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml"
     }
   ]
