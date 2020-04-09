@@ -1,10 +1,5 @@
 {
   "addons": [
-
-    {
-      "name": "Seren Zip",
-      "url": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/plugin.video.seren/plugin.video.seren-1.6.11.zip"
-    },
     {
       "name": "Seren",
       "type": "addon",
