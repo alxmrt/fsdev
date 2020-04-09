@@ -6,17 +6,17 @@
       "url": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/plugin.video.seren/plugin.video.seren-1.6.11.zip"
     },
     {
-      "name": "Spotify w/ Repository",
+      "name": "Seren",
       "type": "addon",
       "section": false,
-      "plugin": "plugin.audio.spotify",
-      "url": "https://kodi-community-addons.github.io/repository.marcelveldt/plugin.audio.spotify/",
-      "repository": "repository.marcelveldt",
-      "repositoryxml": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml",
-      "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
+      "plugin": "plugin.video.seren",
+      "url": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/plugin.video.seren/",
+      "repository": "repository.nixgates",
+      "repositoryxml": "https://raw.githubusercontent.com/nixgates/nixgates/master/packages/addons.xml",
+      "repositoryurl": "https://raw.githubusercontent.com/nixgates/nixgates/",
       "icon": "",
       "adult": false,
-      "description": "The official Spotify add-on."
+      "description": "Seren"
     }
   ]
 }
