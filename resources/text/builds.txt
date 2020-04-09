@@ -1,6 +1,6 @@
 name="Alex Build"
 version="1.0"
-url="http://38.39.190.155/alex/Alex-1.0.zip"
+url="http://38.39.190.155/alex/Alex-1.1.zip"
 minor="http://"
 gui="http://38.39.190.155/alex/guisettings.xml"
 kodi="18.6"
